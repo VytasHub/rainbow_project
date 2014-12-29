@@ -1,0 +1,4 @@
+database: rainbow_candy
+user: root
+password: (empty)
+
